@@ -1,2 +1,2 @@
-# 0x03-debugging
-This is a project on Debugging, and i am just startting to learn to debug.
+# 0x03. C - Debugging
+Currently leanring how to debug.
