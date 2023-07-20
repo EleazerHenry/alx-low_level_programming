@@ -1,2 +1,2 @@
 # 0x03. C - Debugging
-Currently leanring how to debug.
+Just starting to lean how to debug.
